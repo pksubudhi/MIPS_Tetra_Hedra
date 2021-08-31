@@ -1,3 +1,8 @@
+# Contact: P K Subudhi
+# mailtopksubudhi@gmail.com
+# WhatsApp: +91-8895174939
+# Website: www.pksubudhi.com
+
 main:
     la   $a0, prompt1    # printf("Enter a number: ");
     li   $v0, 4
